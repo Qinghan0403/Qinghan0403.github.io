@@ -60,7 +60,7 @@ html {
     --footer_text_color: #ffffff;
     --left_tag_item: #c7e1fa;
     --card_filter: 0px;
-    --back_filter: 20px;
+    --back_filter:0px;
     --back_filter_color: #00000030;
      --fill:#000000;
 }
